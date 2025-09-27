@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\bin\Debug\net8.0\Consolita.exe
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\bin\Debug\net8.0\Consolita.deps.json
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\bin\Debug\net8.0\Consolita.runtimeconfig.json
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\bin\Debug\net8.0\Consolita.dll
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\bin\Debug\net8.0\Consolita.pdb
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.dll
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\refint\Consolita.dll
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.pdb
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\Consolita.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Daria\Consolita\Consolita\obj\Debug\net8.0\ref\Consolita.dll
